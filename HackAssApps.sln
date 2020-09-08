@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{CF54FD60-56DF-494B-9B70-F219F69D14DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{CF54FD60-56DF-494B-9B70-F219F69D14DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCrawler", "WebCrawler\WebCrawler.csproj", "{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,9 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CF54FD60-56DF-494B-9B70-F219F69D14DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +29,23 @@ Global
 		{CF54FD60-56DF-494B-9B70-F219F69D14DE}.Release|x64.Build.0 = Release|Any CPU
 		{CF54FD60-56DF-494B-9B70-F219F69D14DE}.Release|x86.ActiveCfg = Release|Any CPU
 		{CF54FD60-56DF-494B-9B70-F219F69D14DE}.Release|x86.Build.0 = Release|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Debug|x64.Build.0 = Debug|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Debug|x86.Build.0 = Debug|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Release|x64.ActiveCfg = Release|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Release|x64.Build.0 = Release|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Release|x86.ActiveCfg = Release|Any CPU
+		{DDCAD303-29C5-4FBF-A90D-766D36BDFF02}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1ED8B72-3389-4C89-B2E1-282F17595317}
 	EndGlobalSection
 EndGlobal
