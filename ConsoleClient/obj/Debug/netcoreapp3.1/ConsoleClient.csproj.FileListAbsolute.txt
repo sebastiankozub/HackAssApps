@@ -1,0 +1,13 @@
+D:\source\repos\HackAssApp\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.exe
+D:\source\repos\HackAssApp\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.deps.json
+D:\source\repos\HackAssApp\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.json
+D:\source\repos\HackAssApp\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.runtimeconfig.dev.json
+D:\source\repos\HackAssApp\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.dll
+D:\source\repos\HackAssApp\ConsoleClient\bin\Debug\netcoreapp3.1\ConsoleClient.pdb
+D:\source\repos\HackAssApp\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csprojAssemblyReference.cache
+D:\source\repos\HackAssApp\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfoInputs.cache
+D:\source\repos\HackAssApp\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.AssemblyInfo.cs
+D:\source\repos\HackAssApp\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.csproj.CoreCompileInputs.cache
+D:\source\repos\HackAssApp\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.dll
+D:\source\repos\HackAssApp\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.pdb
+D:\source\repos\HackAssApp\ConsoleClient\obj\Debug\netcoreapp3.1\ConsoleClient.genruntimeconfig.cache
