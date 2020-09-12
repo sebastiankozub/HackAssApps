@@ -12,6 +12,8 @@ namespace ShortUrlWebApp.Contexts
         public ShortUrlsDbContext(DbContextOptions options) : base(options)
         {
 
+
+
         }
 
         public DbSet<Url> Urls { get; set; }

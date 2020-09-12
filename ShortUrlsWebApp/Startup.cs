@@ -8,7 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ShortUrlWebApp.Contexts;
 
-namespace ShortUrlWebApp
+namespace ShortUrlsWebApp
 {
     public class Startup
     {

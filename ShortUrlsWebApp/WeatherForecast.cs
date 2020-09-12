@@ -1,6 +1,6 @@
 using System;
 
-namespace ShortUrlWebApp
+namespace ShortUrlsWebApp
 {
     public class WeatherForecast
     {
