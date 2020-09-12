@@ -34,5 +34,23 @@ namespace ShortUrlWebApp.Controllers
                 Created = DateTime.Now
             };
         }
+
+        //[HttpPost]
+        //public ShortUrl Post(string url)
+        //{
+
+        //}
     }
 }
+
+/*
+ * db entity
+ * 
+ * urlId
+ * url
+ * endodedUrl
+ * created 
+ * 
+ */
+
+
