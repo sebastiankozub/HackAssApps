@@ -20,6 +20,11 @@ namespace ShortUrlsWebApp.Contexts
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
+            // model builder is for constant data like read-only lookups used in the business 
+            // e.g. cm, inch, m, feet and their muliplayers 
+            // Those used only to Debug during Development should be in DbInitialization
+            // But let it be ;-)
             modelBuilder.Entity<Url>().HasData(
                 new Url
                 {
@@ -42,7 +47,13 @@ namespace ShortUrlsWebApp.Contexts
                     ShortUrl = "/sdgdgffd66fsd",
                     Created = new DateTime(1981, 07, 13)
                 }
-            ); ;
+            );
+
+            modelBuilder.Entity<Url>()
+                .HasIndex(b => b.ShortUrl)
+                .IsUnique()
+                .HasDatabaseName("Index_Url")
+                .IncludeProperties(b => new { b.GivenUrl });
         }
     }
 }
