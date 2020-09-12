@@ -4,7 +4,7 @@ Solucja z rónymi projektami .NET zawierająca głównie projekty napisane z wyk
 
 #### ShortUrlsWebApp
  
-Strona internetowa, która umożliwiając przestępcy wykorzystać możliwości modnych dzisiaj skróconych linków. Oficjalne portale do tego służące nie pozwolą albo nawet będą w stanie namierzyć osobę, która będzie chciała skrócić przykładowo linka: (https://some-nice-service.com/catalog/212/<script>try_get_keystrokes();</script>/)[1]  który w postaci skróconej https://short-url.com/hot_chicks może kierować na stronę łudząco przypominającą znany portal i prezentującą wciągający artykuł na którym ofiara spędzi minimum 10 minut lub zostawi otwarty w innej zakładce. Stworzenie takiego portalu i endpointa do skracania linków biegłemu programiście nie zajmie więcej niż kilka dni. Warto być świadomym zagrożeń jakie kryją się pod skróconymi linkami. 
+Strona internetowa, która umożliwiając przestępcy wykorzystać możliwości modnych dzisiaj skróconych linków. Oficjalne portale do tego służące nie pozwolą albo nawet będą w stanie namierzyć osobę, która będzie chciała skrócić przykładowo linka: [https://some-nice-service.com/catalog/212/<script>try_get_keystrokes();</script>/][1]  który w postaci skróconej https://short-url.com/hot_chicks może kierować na stronę łudząco przypominającą znany portal i prezentującą wciągający artykuł na którym ofiara spędzi minimum 10 minut lub zostawi otwarty w innej zakładce. Stworzenie takiego portalu i endpointa do skracania linków biegłemu programiście nie zajmie więcej niż kilka dni. Warto być świadomym zagrożeń jakie kryją się pod skróconymi linkami. 
 
 #### WebCrawlerApp
 
