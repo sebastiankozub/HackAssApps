@@ -23,7 +23,7 @@ namespace ShortUrlsWebApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ShortUrlsDbContext>(opts =>
-                opts.UseSqlServer(Configuration.GetConnectionString("sqlConnection")));
+                opts.UseSqlServer(Configuration.GetConnectionString("ShortUrlsDbContextSqlConnection")));
 
             services.AddControllersWithViews();
 

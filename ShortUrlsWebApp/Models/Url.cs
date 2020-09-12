@@ -13,8 +13,11 @@ namespace ShortUrlsWebApp.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public long UrlId { get; set; }
+        [Required]
         public string GivenUrl { get; set; } //with domain 
+        [Required]
         public string ShortUrl { get; set; } //without domain
+        [Required]
         public DateTime Created { get; set; }
     }
 }
