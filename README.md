@@ -1,6 +1,6 @@
 # HackUrAssApps
 
-Solucja z rónymi projektami .NET zawierająca głównie projekty napisane z wykorzystaniem języka C# oraz bibliotek framework'ów wbudowanych w środowisko .NET czyli Entity Framework, WPF, WCF, ASP.NET, itd. oraz innych języków i technologi jak TypeScript/JavaScript, Angular/React, SQL, HTML/CSS, Sass/Less, REST itp. Biblioteka aplikacji, które mają posłużyć jako pomoc do zobrazowania możliwości cyberprzestępców i materiał pomocniczy do szerzenia wiedzy i bloga na temat cyberbezpieczeństwa. 
+Solucja z różnymi projektami .NET zawierająca głównie projekty napisane z wykorzystaniem języka C# oraz bibliotek framework'ów wbudowanych w środowisko .NET czyli Entity Framework, WPF, WCF, ASP.NET, itd. oraz innych języków i technologi jak TypeScript/JavaScript, Angular/React, SQL, HTML/CSS, Sass/Less, REST itp. Biblioteka aplikacji, które mają posłużyć jako pomoc do zobrazowania możliwości cyberprzestępców i materiał pomocniczy do szerzenia wiedzy i bloga na temat cyberbezpieczeństwa. 
 
 #### ShortUrlsWebApp
  
