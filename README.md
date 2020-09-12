@@ -8,28 +8,30 @@ Strona internetowa, która umożliwiając przestępcy wykorzystać możliwości 
 
 #### WebCrawlerApp
 
-1. Skanowanie sieci w celu wy?uskiwania i zbierania link?w do r??nych podstron i stron zewn?trznych wykorzystywanych p??niej lub r?wnolegle przez 2.
-2. Skanowanie sieci z wykorzystaniem zebranych link?w w celu znalezienia  stron WWW podatnych na ataki oraz ich indeksacja w celu p??niejszego wykorzystania.
-3. Kilka przyk?adowych atak?w pokazuj?cych obrazowo czego si? ba? i na co zwraca? uwag?. 
+1. Skanowanie sieci w celu wyłuskiwania i zbierania linków do różnych podstron i stron zewnętrznych wykorzystywanych później lub równolegle przez 2.
+2. Skanowanie sieci z wykorzystaniem zebranych linków w celu znalezienia  stron WWW podatnych na ataki oraz ich indeksacja w celu późniejszego wykorzystania.
+3. Kilka przykładowych ataków pokazujących obrazowo czego się bać i na co zwracać uwagę. 
 
 #### WiFiPasswordCracker
 
-Aplikacja do wykradania hase? do sieci WiFi.
+Aplikacja do wykradania haseł do sieci WiFi pokazująca jak silne hasło musisz sobie wymyśleć, aby czuć się względnie bezpiecznie. 
 
 #### TransmissionListener
 
-Aplikacja do nas?uchiwania transmisji. 
+Aplikacja do nasłuchiwania transmisji np.: w sieci WiFi zdobytej aplikacją wyżej. 
 
 ### Cele
 
-Aplikacje b?d? baz? dla mnie i mojego bloga, pentester?w oraz os?b zainteresowanych cyberbepiecze?stwem do zobrazowania i lepszego zrozumienia problem?w bezpiecze?stwa i w?asnych do?wiadcze? lub po dostosowaniu testowania w?asnych system?w narz?dziami l?ejszymi, nad kt?rymi mamy wi?ksz? konrtrol? i udost?pnione open-source b?d? mog?y zosta? przystosowane do bardziej specyficznych test?w i zada? bez konieczno?ci uczenia si? rozbudowanych dawno na rynku dost?pnych aplikacji lub ca?ych system?w. 
+Aplikacje będą bazą dla mnie i mojego bloga, pentesterów oraz osób zainteresowanych cyberbepieczeństwem do zobrazowania i lepszego zrozumienia problemów bezpieczeństwa i własnych doświadczeń lub po dostosowaniu testowania własnych systemów narzędziami lżejszymi, nad którymi mamy większą konrtrolę i udostąpnione open-source będą mogły zostać przystosowane do bardziej specyficznych testów i zadać bez konieczności uczenia się rozbudowanych dostęnych na rynku aplikacji lub całych systemów. 
 
-## Cel wt?rny i g??wny 
+## Cel wtórny i główny 
 
-Wyobra?my sobie ?wiat, w kt?rym, powiedzmy, tylko oko?o 5% obywateli rozumie i rozpoznaje proces i cel  wywa?ania drzwi w mieszkaniu s?siad?w lub okolicznym sklepie. To ?wiat, w kt?rym s?u?by mundurowe musia?yby mie? w?adz? absolutn? nad obywatelem, aby zapanowa? nad wzgl?dnym porz?dkiem i przypadkowym bezpiecze?stwem. Prawdopodobnie totalnie skorumpowany i przypominajacy najgorsze okresy w dziejach ludzko?ci. Je?li do sieci przeniesiemy ju? wszystko, a nie b?dziemy jako cz?owiek powszechnie rozumieli do czego s?u?y klamka lub zamek pope?nimy cywilizacyjne samob?jstwo. Tylko edukacja i ?wiadomo?? mo?e nasuratowa? przez chosem i/lub zniewoleniem cz?owieka w sieci przez s?u?by odg?rnie wybrane do pilnowania i zagl?dania do ka?dej przesy?ki/informacji. 
+Wyobraźmy sobie Świat, w którym, powiedzmy, tylko około 5% obywateli rozumie i rozpoznaje proces i cel  wyważania drzwi w mieszkaniu sąsiadów lub okolicznym sklepie. To świat, w którym służby mundurowe i siłowe musiałyby mieć władzę absolutną nad obywatelem, aby zapanować nad względnym porządkiem i przypadkowym bezpieczeństwem. Prawdopodobnie totalnie skorumpowany i przypominajacy najgorsze okresy w dziejach ludzkości. Jeśli do sieci przeniesiemy już wszystko, a nie będziemy jako człowiek powszechnie rozumieli do czego służy klamka lub zamek popełnimy cywilizacyjne samobójstwo. Tylko edukacja i świadomość może nas uratować przez chosem i/lub zniewoleniem człowieka w sieci przez służby odgórnie wybrane do pilnowania i zaglądania do każdej przesyłanej informacji i każdej transakcji. 
+
+[1]: https://pagedout.institute/
 
 
-[1]: http://slashdot.org
+
 
 
 
