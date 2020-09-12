@@ -1,10 +1,10 @@
 # HackUrAssApps
 
-Solucja z r??nymi projektami .NET zawieraj?ca g??wnie projekty napisane z wykorzystaniem j?zyka C# oraz bibliotek framework'?w wbudowanych w ?rodowisko .NET czyli Entity Framework, WPF, WCF, ASP.NET, itd. oraz innych j?zyk?w i technologi jak Type Script, JavaScript, Angular/React, SQL, HTML/CSS, Sass/Less, REST itp. Biblioteka aplikacji, kt?rea maj? pos?u?y? jako pomoc do zobrazowania mo?lwio?ci cyberprzest?pc?w i materia? pomocniczy do szkole? i bloga na temat cyberbezpiecze?stwa. 
+Solucja z rónymi projektami .NET zawierająca głównie projekty napisane z wykorzystaniem języka C# oraz bibliotek framework'ów wbudowanych w środowisko .NET czyli Entity Framework, WPF, WCF, ASP.NET, itd. oraz innych języków i technologi jak TypeScript/JavaScript, Angular/React, SQL, HTML/CSS, Sass/Less, REST itp. Biblioteka aplikacji, które mają posłużyć jako pomoc do zobrazowania możliwości cyberprzestępców i materiał pomocniczy do szerzenia wiedzy i bloga na temat cyberbezpieczeństwa. 
 
 #### ShortUrlsWebApp
  
-Strona internetowa, kt?ra umo?liwiaj?ca przest?pcy wykorzysta? mo?liwo?ci modnych dzisiaj skr?conych link?w. Oficjalne portale do tego s?u??ce nie pozwol? albo nawet b?d? w stanie namierzy? osob?, kt?ra b?dzie chcia?a skr?ci? przyk?adowego linka: https://some-nice-service.com/catalog/212/<script>try_get_keystrokes();</script> kt?ry w postaci skr?conej mo?e kierowa? na stron? ?udz?co przypominaj?c? znany portal i prezentuj?c? wci?gaj?cy artyku? na kt?rym ofiara sp?dzi minimum 10 minut. Stworzenie takiego portalu bieg?emu programi?cie .NET nie zajmie wi?cej ni? kilka dni. Warto by? ?wiadomym zagro?e? jakie kryj? si? pod skr?conymi linkami. 
+Strona internetowa, która umożliwiając przestępcy wykorzystać możliwości modnych dzisiaj skróconych linków. Oficjalne portale do tego służące nie pozwolą albo nawet będą w stanie namierzyć osobę, która będzie chciała skrócić przykładowo linka: (https://some-nice-service.com/catalog/212/<script>try_get_keystrokes();</script>/)[1]  który w postaci skróconej https://short-url.com/hot_chicks może kierować na stronę łudząco przypominającą znany portal i prezentującą wciągający artykuł na którym ofiara spędzi minimum 10 minut lub zostawi otwarty w innej zakładce. Stworzenie takiego portalu i endpointa do skracania linków biegłemu programiście nie zajmie więcej niż kilka dni. Warto być świadomym zagrożeń jakie kryją się pod skróconymi linkami. 
 
 #### WebCrawlerApp
 
@@ -29,7 +29,7 @@ Aplikacje b?d? baz? dla mnie i mojego bloga, pentester?w oraz os?b zainteresowan
 Wyobra?my sobie ?wiat, w kt?rym, powiedzmy, tylko oko?o 5% obywateli rozumie i rozpoznaje proces i cel  wywa?ania drzwi w mieszkaniu s?siad?w lub okolicznym sklepie. To ?wiat, w kt?rym s?u?by mundurowe musia?yby mie? w?adz? absolutn? nad obywatelem, aby zapanowa? nad wzgl?dnym porz?dkiem i przypadkowym bezpiecze?stwem. Prawdopodobnie totalnie skorumpowany i przypominajacy najgorsze okresy w dziejach ludzko?ci. Je?li do sieci przeniesiemy ju? wszystko, a nie b?dziemy jako cz?owiek powszechnie rozumieli do czego s?u?y klamka lub zamek pope?nimy cywilizacyjne samob?jstwo. Tylko edukacja i ?wiadomo?? mo?e nasuratowa? przez chosem i/lub zniewoleniem cz?owieka w sieci przez s?u?by odg?rnie wybrane do pilnowania i zagl?dania do ka?dej przesy?ki/informacji. 
 
 
-
+[1]: http://slashdot.org
 
 
 
