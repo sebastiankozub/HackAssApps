@@ -3,9 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ShortUrlWebApp.Models;
+using ShortUrlsWebApp.Models;
 
-namespace ShortUrlWebApp.Contexts
+namespace ShortUrlsWebApp.Contexts
 {
     public class ShortUrlsDbContext : DbContext
     {
